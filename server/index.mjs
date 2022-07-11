@@ -24,3 +24,4 @@ app.listen(
 		console.log(`SERVER RUNNING ON PORT 3002`)
 	}
 )
+// this is the server
